@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77830d3f-fc86-44fa-9773-8b4c30f6e722" /># System_Maintenance_Project
+# System_Maintenance_Project
 A bash automation project for system maintenance tasks
 
 ### Objective:
