@@ -73,7 +73,7 @@ bash maint.sh
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/Automated-Linux-Maintenance-Suite.git
+git clone https://github.com/Ankita53-pix/System_Maintenance_Project.git
 ```
 
 2. Go to the folder:
@@ -101,13 +101,13 @@ chmod +x *.sh
 **Backup Script:**
 
 ```
-Backup Done : /home/user/backup/backup_20251109_084723.tar.gz
+Backup Done : /home/ankita_1009/backup/backup_20251109_084723.tar.gz
 ```
 
 **Log Monitor:**
 
 ```
-Alerts found! Saved in /home/user/log_alerts.txt
+Alerts found! Saved in /home/ankita_1009/log_alerts.txt
 ```
 
 **Menu:**
